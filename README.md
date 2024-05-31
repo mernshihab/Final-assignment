@@ -1,4 +1,4 @@
-## Simple E-commerce Backend API with Express.js (Final exam OSTAD)
+## E-commerce Backend API with Express.js (Final exam OSTAD)
 
 This project is a backend API for an e-commerce application built with Express.js. It provides functionalities to manage products and other functionalities that fulfilling the assignment requirements.
 
